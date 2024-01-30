@@ -1,5 +1,5 @@
 body {
-    background: rgb(100, 85, 135);
+    background: rgb(255, 171, 213);
     margin: 0 auto;
     overflow: hidden;
   }
@@ -27,7 +27,7 @@ body {
     height: 10vw;
   }
   #spelledOut{
-    background: rgb(100, 145, 195);
+    background: rgb(45, 75, 156);
     top:0%;
     left:0%;
     position:absolute;
